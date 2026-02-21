@@ -1,4 +1,3 @@
-# FIFA-19-Tableau-Dashboard-Analysis
 # FIFA 19 Tableau Dashboard Analysis
 
 This project presents an interactive Tableau dashboard built using the FIFA 19 dataset. It focuses on analyzing player performance, market value, skills, and potential using visual analytics.
